@@ -25,7 +25,7 @@ namespace Main
         public void FileRead()
         {
             string[] lines = System.IO.File.ReadAllLines(@"D:\Users\seven\Desktop\test.txt");
-            System.Console.WriteLine("下载地址分别为 = ");
+            System.Console.WriteLine("                        下载地址分别为  ");
 
             foreach (string line in lines)
             {
@@ -33,7 +33,7 @@ namespace Main
                 Address.Add(line);
                 string[] s = line.Split('/');
                 Format.Add(s[s.Length - 1]);
-                Console.WriteLine(line);
+                Console.WriteLine(i + ". "+line);
             }
         }
     }

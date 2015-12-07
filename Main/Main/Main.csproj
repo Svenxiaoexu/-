@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TextMgr.cs" />
+    <Compile Include="TxTMgr.cs" />
     <Compile Include="Mgr.cs" />
     <Compile Include="DLM.cs" />
     <Compile Include="THM.cs" />

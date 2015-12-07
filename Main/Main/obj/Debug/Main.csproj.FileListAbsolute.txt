@@ -13,3 +13,9 @@ D:\Users\seven\cangku\cloud\Main\Main\obj\Debug\Main.csprojResolveAssemblyRefere
 D:\Users\seven\Desktop\Main\Main\bin\Debug\Main.exe.config
 D:\Users\seven\Desktop\Main\Main\obj\Debug\Main.exe
 D:\Users\seven\Desktop\Main\Main\obj\Debug\Main.pdb
+D:\Users\seven\cangku\DownLoad\Main\Main\bin\Debug\Main.exe.config
+D:\Users\seven\cangku\DownLoad\Main\Main\obj\Debug\Main.exe
+D:\Users\seven\cangku\DownLoad\Main\Main\obj\Debug\Main.pdb
+D:\Users\seven\cangku\DownLoad\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Users\seven\cangku\DownLoad\Main\Main\bin\Debug\Main.exe
+D:\Users\seven\cangku\DownLoad\Main\Main\bin\Debug\Main.pdb
