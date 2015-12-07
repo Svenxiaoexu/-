@@ -1,0 +1,15 @@
+D:\Users\seven\Desktop\DL\Main\Main\bin\Debug\Main.exe.config
+D:\Users\seven\Desktop\DL\Main\Main\bin\Debug\Main.exe
+D:\Users\seven\Desktop\DL\Main\Main\bin\Debug\Main.pdb
+D:\Users\seven\Desktop\DL\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Users\seven\Desktop\DL\Main\Main\obj\Debug\Main.exe
+D:\Users\seven\Desktop\DL\Main\Main\obj\Debug\Main.pdb
+D:\Users\seven\cangku\cloud\Main\Main\bin\Debug\Main.exe.config
+D:\Users\seven\cangku\cloud\Main\Main\obj\Debug\Main.exe
+D:\Users\seven\cangku\cloud\Main\Main\obj\Debug\Main.pdb
+D:\Users\seven\cangku\cloud\Main\Main\bin\Debug\Main.exe
+D:\Users\seven\cangku\cloud\Main\Main\bin\Debug\Main.pdb
+D:\Users\seven\cangku\cloud\Main\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Users\seven\Desktop\Main\Main\bin\Debug\Main.exe.config
+D:\Users\seven\Desktop\Main\Main\obj\Debug\Main.exe
+D:\Users\seven\Desktop\Main\Main\obj\Debug\Main.pdb
